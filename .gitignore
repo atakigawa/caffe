@@ -50,6 +50,9 @@
 # OSX dir files
 .DS_Store
 
+# pyenv files
+.python-version
+
 ## Caffe
 
 # User's build configuration
