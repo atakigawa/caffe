@@ -53,6 +53,9 @@
 # pyenv files
 .python-version
 
+# ctags files
+tags
+
 ## Caffe
 
 # User's build configuration
